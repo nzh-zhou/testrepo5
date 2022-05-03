@@ -1,0 +1,3 @@
+[submodule "testrepo5-submodule1"]
+	path = testrepo5-submodule1
+	url = https://github.com/nzh-zhou/testrepo5-submodule1.git
